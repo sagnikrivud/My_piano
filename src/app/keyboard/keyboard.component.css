@@ -1,0 +1,22 @@
+body {
+
+	vertical-align: middle;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height :200px;
+
+}
+
+.text_e{
+	margin-left: auto;
+    margin-right: auto;
+}
+.center {
+  text-align: center;
+  /*border: 3px solid green;*/
+}
