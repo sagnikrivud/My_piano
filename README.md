@@ -20,6 +20,21 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
+> Clone the project
+```sh
+$ git clone https://github.com/sagnikrivud/My_piano.git
+```
+> Enter to repository
+```sh
+$ cd My_piano
+```
+```sh
+$ npm install
+```
+```sh
+$ ng serve
+```
+
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
