@@ -1,3 +1,4 @@
+[![My LinkedIn Profile](https://media.licdn.com/dms/image/C5603AQEC8ch_Z-bmpg/profile-displayphoto-shrink_200_200/0/1589660737782?e=2147483647&v=beta&t=bkzNsi69jrmxF804_L0f7GsGYKj8_BP_mDu4pF9wg20)](https://in.linkedin.com/in/sagnik-dey-483423a9)
 # Online Piano organizing application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
